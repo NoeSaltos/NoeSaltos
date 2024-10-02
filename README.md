@@ -11,7 +11,7 @@ Este es mi sitio personal. Aquí puedes encontrar información sobre mí, mis pr
 * * Sitio web: [Tu sitio web]
 
 ## Proyectos
-* Aplicación para administrar el inventario de una empresa.
+* Aplicación para administrar el inventario de una empresa. link: https://github.com/Sebhvarg/ProyectoPOO
 * Aplicacion para administrar contactos.
 * Aplicación de un juego de Tic Tac Toe. link: https://github.com/NoeSaltos/Proyecto2doEstructuras.git
   
