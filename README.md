@@ -1,22 +1,42 @@
-# Mi sitio personal
-Este es mi sitio personal. Aquí puedes encontrar información sobre mí, mis proyectos y mis intereses.
-## Contenido
-* [Información personal](#información-personal)
-* [Proyectos](#proyectos)
-* [Intereses](#intereses)
-## Información personal
-* Nombre: Noelia Saltos Hernández
-* Ocupación: estudiante de Ing. en Ciencias de la computación
-* Lugar de residencia: Guayaquil, Ecuador
-* * Sitio web: [Tu sitio web]
+# 🌟 Mi Sitio Personal
 
-## Proyectos
-* Aplicación para administrar el inventario de una empresa. link: https://github.com/Sebhvarg/ProyectoPOO
-* Aplicacion para administrar contactos.
-* Aplicación de un juego de Tic Tac Toe. link: https://github.com/NoeSaltos/Proyecto2doEstructuras.git
-  
-  
-## Intereses
-* Me gusta mucho la programación.
-* Me gusta diseñar.
-* Me interesa el mundo de la ciberseguridad.
+¡Bienvenido a mi sitio personal! Aquí encontrarás información sobre mí, mis proyectos destacados y los temas que más me apasionan. 🚀
+
+---
+
+## 📖 Contenido
+1. [Información Personal](#información-personal)
+2. [Proyectos](#proyectos)
+3. [Intereses](#intereses)
+
+---
+
+## 👩‍💻 Información Personal
+
+- **Nombre:** Noelia Saltos Hernández  
+- **Ocupación:** Estudiante de Ingeniería en Ciencias de la Computación  
+- **Lugar de Residencia:** Guayaquil, Ecuador 🇪🇨  
+- **Sitio Web:** [Visítame aquí](#)  
+
+---
+
+## 🛠️ Proyectos
+
+### 1. Aplicación para administrar el inventario de una empresa  
+**Descripción:** Desarrollo de una aplicación para gestionar el inventario de forma eficiente.  
+[Repositorio en GitHub](https://github.com/Sebhvarg/ProyectoPOO)  
+
+### 2. Aplicación para administrar contactos  
+**Descripción:** Herramienta para organizar y gestionar contactos personales y profesionales.
+
+### 3. Juego de Tic Tac Toe  
+**Descripción:** Implementación de un juego clásico para dos jugadores en un entorno interactivo.  
+[Repositorio en GitHub](https://github.com/NoeSaltos/Proyecto2doEstructuras.git)  
+
+---
+
+## 🎯 Intereses
+
+- 💻 **Programación:** Disfruto aprender y crear soluciones innovadoras.  
+- 🎨 **Diseño:** Me apasiona diseñar interfaces y estructuras organizadas.  
+- 🔒 **Ciberseguridad:** Me interesa explorar y aprender más sobre este fascinante campo.  
