@@ -64,31 +64,39 @@
 
 <div align="center">
 <span style="display: inline-block; margin-right: 10px;">
-  <a href="https://www.linkedin.com/in/noelia-saltos-a24a18221/">
+  <a href="https://docs.oracle.com/en/java/">
     <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white" alt="Java">
 </span>
 <span style="display: inline-block; margin-right: 10px;">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
     <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?style=flat&logo=html5&logoColor=white" alt="HTML">
 </span>
 <span style="display: inline-block; margin-right: 10px;">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
     <img src="https://img.shields.io/badge/CSS-%231572B6.svg?style=flat&logo=css3&logoColor=white" alt="CSS">
 </span>
 <span style="display: inline-block; margin-right: 10px;">
+  <a href="https://developer.mozilla.org/es/docs/Web/JavaScript">
     <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black" alt="JavaScript">
 </span>
 <span style="display: inline-block; margin-right: 10px;">
+  <a href="https://getbootstrap.com/docs/5.3/getting-started/introduction/">
     <img src="https://img.shields.io/badge/Bootstrap-%237952B3.svg?style=flat&logo=bootstrap&logoColor=white" alt="Bootstrap">
 </span>
 <span style="display: inline-block; margin-right: 10px;">
+  <a href="https://docs.python.org/3/">
     <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white" alt="Python">
 </span>
 <span style="display: inline-block; margin-right: 10px;">
+  <a href="https://docs.python.org/3/">
     <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=flat&logo=react&logoColor=black" alt="React">
 </span>
 <span style="display: inline-block; margin-right: 10px;">
+  <a href="https://docs.github.com/es">
     <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white" alt="Git">
 </span>
 <span style="display: inline-block; margin-right: 10px;">
+  <a href="https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html">
     <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white" alt="TypeScript">
 </span>
 </div>
