@@ -30,7 +30,7 @@
 ### 4 Curriculum Vitae
 **Descripción:** Mi curriculum vitae, donde muestro mi información/formación profesional.  
 [📂 Repositorio en GitHub](https://github.com/NoeSaltos/curriculum)
-**Tecnologías:** 
+**Tecnologías:**  
 ![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=flat&logo=css3&logoColor=white)
 
@@ -102,5 +102,16 @@
 
 - 💻 **Programación:** Disfruto aprender y crear soluciones innovadoras.  
 - 🎨 **Diseño:** Me apasiona diseñar interfaces y estructuras organizadas.  
-- 🔒 **Ciberseguridad:** Me interesa explorar y aprender más sobre este fascinante campo.  
+- 🔒 **Ciberseguridad:** Me interesa explorar y aprender más sobre este fascinante campo.
+
+---
+
+## 📞 Contáctame
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/noelia-saltos-a24a18221/)
+[![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=flat&logo=microsoft-outlook&logoColor=white)](mailto:noeasalt@espol.edu.ec)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:nsaltosh@fiec.edu.ec)
+</div>
+
 
