@@ -3,9 +3,9 @@
 
 ¡Bienvenido a mi sitio personal! Aquí encontrarás información sobre mí, mis proyectos destacados y los temas que más me apasionan. 🚀
 
-![Minecraft GIF](https://media.giphy.com/media/q0s0NVKnLk5WGvsLh3/giphy.gif)
-
-
+<div align="center">
+  <img src="https://media.giphy.com/media/q0s0NVKnLk5WGvsLh3/giphy.gif" alt="Minecraft GIF">
+</div>
 
 ---
 
