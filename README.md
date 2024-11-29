@@ -1,5 +1,5 @@
 <div align= "center">
-#Hola! Soy Noelia Saltos 🌟
+# 🌟 Hola! soy Noelia Saltos
 </div>
 ¡Bienvenido a mi sitio personal! Aquí encontrarás información sobre mí, mis proyectos destacados y los temas que más me apasionan. 🚀
 
