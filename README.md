@@ -56,11 +56,24 @@
 
 ## 🚀 Tecnologías Aprendidas
 
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)  
-![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=flat&logo=html5&logoColor=white)  
-![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=flat&logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black)  
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%237952B3.svg?style=flat&logo=bootstrap&logoColor=white)  
+## 🚀 Tecnologías Aprendidas
+
+<span style="display: inline-block; margin-right: 10px;">
+    <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white" alt="Java">
+</span>
+<span style="display: inline-block; margin-right: 10px;">
+    <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?style=flat&logo=html5&logoColor=white" alt="HTML">
+</span>
+<span style="display: inline-block; margin-right: 10px;">
+    <img src="https://img.shields.io/badge/CSS-%231572B6.svg?style=flat&logo=css3&logoColor=white" alt="CSS">
+</span>
+<span style="display: inline-block; margin-right: 10px;">
+    <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black" alt="JavaScript">
+</span>
+<span style="display: inline-block; margin-right: 10px;">
+    <img src="https://img.shields.io/badge/Bootstrap-%237952B3.svg?style=flat&logo=bootstrap&logoColor=white" alt="Bootstrap">
+</span>
+ 
 
 ---
 
