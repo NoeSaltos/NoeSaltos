@@ -1,5 +1,5 @@
 
-# 🌟 Hola! Soy Noelia Saltos
+# 🌟 Hola! soy Noelia Saltos
 
 ¡Bienvenido a mi sitio personal! Aquí encontrarás información sobre mí, mis proyectos destacados y los temas que más me apasionan. 🚀
 
@@ -94,7 +94,7 @@
     </a>
 </span>
 <span style="display: inline-block; margin-right: 10px;">
-  <a href="https://docs.python.org/3/">
+  <a href="https://legacy.reactjs.org/docs/getting-started.html">
     <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=flat&logo=react&logoColor=black" alt="React">
     </a>
 </span>
