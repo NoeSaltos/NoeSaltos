@@ -1,5 +1,6 @@
+<div align= "center">
 # Hola! Soy Noelia Saltos 🌟
-
+</div>
 ¡Bienvenido a mi sitio personal! Aquí encontrarás información sobre mí, mis proyectos destacados y los temas que más me apasionan. 🚀
 
 ---
@@ -16,7 +17,7 @@
 
 - **Ocupación:** Estudiante de Ingeniería en Ciencias de la Computación  
 - **Lugar de Residencia:** Guayaquil, Ecuador 🇪🇨  
-- **Sitio Web:** [Visítame aquí](#)  
+- **Sitio Web:** [Visítame aquí](https://noesaltos.github.io/curriculum/))  
 
 ---
 
@@ -78,7 +79,21 @@
 <span style="display: inline-block; margin-right: 10px;">
     <img src="https://img.shields.io/badge/Bootstrap-%237952B3.svg?style=flat&logo=bootstrap&logoColor=white" alt="Bootstrap">
 </span>
- 
+
+
+<div align="center">
+
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)  
+![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=flat&logo=html5&logoColor=white)  
+![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=flat&logo=css3&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black)  
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%237952B3.svg?style=flat&logo=bootstrap&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white)  
+![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=flat&logo=react&logoColor=black)  
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white)  
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
+
+</div>
 
 ---
 
