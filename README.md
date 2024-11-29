@@ -112,13 +112,14 @@
   <a href="https://www.linkedin.com/in/noelia-saltos-a24a18221/">
     ![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)
   </a>
-  <a href="mailto:noeasalt@espol.edu.ec" style="margin-left: 15px;">
+  <a href="mailto:noeasalt@espol.edu.ec">
     ![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=flat&logo=microsoft-outlook&logoColor=white)
   </a>
-  <a href="mailto:nsaltosh@fiec.edu.ec" style="margin-left: 15px;">
+  <a href="mailto:nsaltosh@fiec.edu.ec">
     ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)
   </a>
 </div>
+
 
 
 
