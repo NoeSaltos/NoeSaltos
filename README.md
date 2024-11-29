@@ -2,8 +2,8 @@
 # 🌟 Hola! Soy Noelia Saltos
 
 ¡Bienvenido a mi sitio personal! Aquí encontrarás información sobre mí, mis proyectos destacados y los temas que más me apasionan. 🚀
+
 ![Minecraft GIF](https://media.giphy.com/media/q0s0NVKnLk5WGvsLh3/giphy.gif)
-![Minecraft GIF](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOG9zcGthYXhma2ZoOW12cnRtZ2N4cXJ5aDFpNDgwcWttNGgydG55cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/q0s0NVKnLk5WGvsLh3/giphy.gif)
 
 
 
