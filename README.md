@@ -1,10 +1,10 @@
-<div align="center">
+<center>
 
 # 🌟 Hola! Soy Noelia Saltos
 
 ¡Bienvenido a mi sitio personal! Aquí encontrarás información sobre mí, mis proyectos destacados y los temas que más me apasionan. 🚀
 
-</div>
+</center>
 
 
 ---
