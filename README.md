@@ -14,6 +14,7 @@
 2. [Proyectos](#proyectos)
 3. [Tecnologías Aprendidas](#tecnologías-aprendidas)
 4. [Intereses](#intereses)
+5. [Contáctame](#contáctame)
 
 ---
 
