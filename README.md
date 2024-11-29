@@ -62,6 +62,7 @@
 
 ## 🚀 Tecnologías Aprendidas
 
+<div align="center">
 <span style="display: inline-block; margin-right: 10px;">
     <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white" alt="Java">
 </span>
@@ -89,7 +90,7 @@
 <span style="display: inline-block; margin-right: 10px;">
     <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white" alt="TypeScript">
 </span>
-
+</div>
 ---
 
 ## 🎯 Intereses
