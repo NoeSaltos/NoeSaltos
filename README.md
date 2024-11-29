@@ -19,7 +19,7 @@
 
 - **Ocupación:** Estudiante de Ingeniería en Ciencias de la Computación  
 - **Lugar de Residencia:** Guayaquil, Ecuador 🇪🇨  
-- **Sitio Web:** [Visítame aquí](https://noesaltos.github.io/curriculum/))  
+- **Sitio Web:** [Visítame aquí](https://noesaltos.github.io/curriculum/)  
 
 ---
 
@@ -61,6 +61,17 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black)  
 ![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=flat&logo=css3&logoColor=white) 
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-%237952B3.svg?style=flat&logo=bootstrap&logoColor=white)
+
+<div style="display: flex; justify-content: space-between;">
+  <div style="width: 48%;">
+    <h3>Columna 1</h3>
+    <p>Contenido de la columna 1</p>
+  </div>
+  <div style="width: 48%;">
+    <h3>Columna 2</h3>
+    <p>Contenido de la columna 2</p>
+  </div>
+</div>
 
 ---
 
