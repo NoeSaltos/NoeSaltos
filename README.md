@@ -27,28 +27,28 @@
 
 ## 🛠️ Proyectos
 
-### 4 Curriculum Vitae
+### 1. Curriculum Vitae  
 **Descripción:** Mi curriculum vitae, donde muestro mi información/formación profesional.  
-[📂 Repositorio en GitHub](https://github.com/NoeSaltos/curriculum)
+[📂 Repositorio en GitHub](https://github.com/NoeSaltos/curriculum)  
 **Tecnologías:**  
-![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=flat&logo=html5&logoColor=white) 
 ![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=flat&logo=css3&logoColor=white)
 
-### 1. Aplicación para administrar el inventario de una empresa  
+### 2. Aplicación para administrar el inventario de una empresa  
 **Descripción:** Desarrollo de una aplicación para gestionar el inventario de forma eficiente.  
 [📂 Repositorio en GitHub](https://github.com/Sebhvarg/ProyectoPOO)  
 **Tecnologías:**  
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) 
 ![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=flat&logo=css3&logoColor=white)
 
-### 2. Aplicación para administrar contactos  
+### 3. Aplicación para administrar contactos  
 **Descripción:** Herramienta para organizar y gestionar contactos personales y profesionales.  
 [📂 Repositorio en GitHub](https://github.com/JDC1907/Proyecto_Estructura_de_Datos)  
 **Tecnologías:**  
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) 
 ![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=flat&logo=css3&logoColor=white)
 
-### 3. Juego de Tic Tac Toe  
+### 4. Juego de Tic Tac Toe  
 **Descripción:** Implementación de un juego clásico para dos jugadores en un entorno interactivo.  
 [📂 Repositorio en GitHub](https://github.com/NoeSaltos/Proyecto2doEstructuras.git)  
 **Tecnologías:**  
