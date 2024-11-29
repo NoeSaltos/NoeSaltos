@@ -10,11 +10,11 @@
 ---
 
 ## 📖 Contenido
-1. [Información Personal](#información-personal)
-2. [Proyectos](#proyectos)
-3. [Tecnologías Aprendidas](#tecnologías-aprendidas)
-4. [Intereses](#intereses)
-5. [Contáctame](#contáctame)
+1. [Información Personal](#-información-personal)
+2. [Proyectos](#%EF%B8%8F-proyectos)
+3. [Tecnologías Aprendidas](#-tecnologías-aprendidas)
+4. [Intereses](#-intereses)
+5. [Contáctame](#-contáctame)
 
 ---
 
