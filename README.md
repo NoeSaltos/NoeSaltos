@@ -1,5 +1,9 @@
-<div align= "center">
-# 🌟 Hola! soy Noelia Saltos
+<div align="center">
+
+# 🌟 Mi Sitio Personal
+
+¡Bienvenido a mi sitio personal! Aquí encontrarás información sobre mí, mis proyectos destacados y los temas que más me apasionan. 🚀
+
 </div>
 
 ¡Bienvenido a mi sitio personal! Aquí encontrarás información sobre mí, mis proyectos destacados y los temas que más me apasionan. 🚀
@@ -80,10 +84,8 @@
 <span style="display: inline-block; margin-right: 10px;">
     <img src="https://img.shields.io/badge/Bootstrap-%237952B3.svg?style=flat&logo=bootstrap&logoColor=white" alt="Bootstrap">
 </span>
-</span>
 <span style="display: inline-block; margin-right: 10px;">
     <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white" alt="Python">
-</span>
 </span>
 <span style="display: inline-block; margin-right: 10px;">
     <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=flat&logo=react&logoColor=black" alt="React">
