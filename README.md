@@ -1,4 +1,4 @@
-# 🌟 Mi Sitio Personal
+# Hola! Soy Noelia Saltos 🌟
 
 ¡Bienvenido a mi sitio personal! Aquí encontrarás información sobre mí, mis proyectos destacados y los temas que más me apasionan. 🚀
 
@@ -22,6 +22,13 @@
 
 ## 🛠️ Proyectos
 
+### 4 Curriculum Vitae
+**Descripción:** Mi curriculum vitae, donde muestro mi información/formación profesional.  
+[📂 Repositorio en GitHub](https://github.com/NoeSaltos/curriculum)
+**Tecnologías:**
+![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=flat&logo=css3&logoColor=white)
+
 ### 1. Aplicación para administrar el inventario de una empresa  
 **Descripción:** Desarrollo de una aplicación para gestionar el inventario de forma eficiente.  
 [📂 Repositorio en GitHub](https://github.com/Sebhvarg/ProyectoPOO)  
@@ -43,7 +50,7 @@
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) 
 ![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=flat&logo=css3&logoColor=white)
 
-### 4. Desarrollo de una Landing Page  
+### 5. Desarrollo de una Landing Page  
 **Descripción:** Desarrollo de una página web sobre un negocio ficticio de cócteles.  
 [📂 Repositorio en GitHub](https://github.com/NoeSaltos/landing)  
 **Tecnologías:**  
@@ -53,8 +60,6 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-%237952B3.svg?style=flat&logo=bootstrap&logoColor=white)
 
 ---
-
-## 🚀 Tecnologías Aprendidas
 
 ## 🚀 Tecnologías Aprendidas
 
